@@ -59,6 +59,8 @@
 
 //-----------------------------------------------------
 
+// Номер 2
+
 class Book {
     constructor(title, author, year) {
         this.title = title
